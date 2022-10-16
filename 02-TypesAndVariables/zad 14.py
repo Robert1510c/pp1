@@ -1,0 +1,5 @@
+Stopnie=float(input("Wprowadź temperaturę: "))
+StopnieK=(Stopnie + 273.15)
+StopnieF=(Stopnie*1.8 + 32)
+print(f"Temperatura w stopniach Kelvina: {StopnieK}")
+print(f"Temperatura w stopniach Fahrenheita: {StopnieF}")
