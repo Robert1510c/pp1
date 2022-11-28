@@ -1,0 +1,14 @@
+{
+ "Film name": "Harry Potter",
+ "Release date": 2003,
+ "Actors": [
+  "Daniel Radcliff",
+  "Emma Watson",
+  "Rupert Grint"
+ ],
+ "Main characters": {
+  "main villain": "Voldemort",
+  "main character": "Potter"
+ },
+ "Autor": "Ktos"
+}
