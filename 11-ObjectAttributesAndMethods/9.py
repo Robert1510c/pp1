@@ -19,6 +19,6 @@ class Arrays():
     
 
 
-Arrays.create_array(5,3)
+print(Arrays.create_array(5,3))
 
         
