@@ -16,9 +16,16 @@ class Arrays():
             arr.append(random.randint(elem_from,elem_to))
         return arr
 
-    
+    @staticmethod
+    def array(elem,value_from,value_to):
+        arr=[]
+        for i in range(elem+1):
+            for x in range(value_from,value_to):
+                arr.append(x)
+        return arr
 
 
 print(Arrays.create_array(5,3))
+print(Arrays.array(5,1,5))
 
         
